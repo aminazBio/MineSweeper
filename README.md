@@ -4,11 +4,11 @@ To implement the game, we need to store the information of the table houses. For
 In this code, for example, the board variable is used to maintain the state of the houses in terms of revealing and placing the flag. For instance, each house of this table can contain the number 0 meaning hidden, 1 meaning revealed, and 2 meaning placing the flag. The mines variable is also used to store mine locations.
 
 Hints:  
-r: command to reveal any houses.  
-f: command to set the flag.  
-u: command to remove the flag.  
-x: command to exit the program. If this command is entered, there is no need to mention the coordinates of the houses from the table.  
+r: reveal command.  
+f: setting the flag command.  
+u: removing the flag command.  
+x: exit command (If this command is entered, there is no need to mention the coordinates of the houses from the table).  
 
-a) '#' character is sign of a house without a flag.   
-b) 'p' character is sign of a house with a flag.  
-c) '@' character is sign of a house with a mine.  
+'#' : sign of a house without a flag.   
+'p' : sign of a house with a flag.  
+'@' : sign of a house with a mine.  
