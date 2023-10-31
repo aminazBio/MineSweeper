@@ -9,6 +9,6 @@ f: command to set the flag.
 u: command to remove the flag.  
 x: command to exit the program. If this command is entered, there is no need to mention the coordinates of the houses from the table.  
 
-a)'#' character is sign of a house without a flag.   
-b)'p' character is sign of a house with a flag.  
-c)'@' character is sign of a house with a mine.  
+a) '#' character is sign of a house without a flag.   
+b) 'p' character is sign of a house with a flag.  
+c) '@' character is sign of a house with a mine.  
